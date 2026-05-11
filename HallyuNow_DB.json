@@ -1,0 +1,81 @@
+{
+  "artists": [
+    {
+      "id": "1",
+      "name": "Blackpink",
+      "isSelected": true
+    },
+    {
+      "id": "2",
+      "name": "BTS",
+      "isSelected": false
+    },
+    {
+      "id": "3",
+      "name": "Twice",
+      "isSelected": true
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "artistId": "1",
+      "platform": "Youtube",
+      "artistName": "Blackpink",
+      "title": "BLACKPINK - 'GO' M/V",
+      "description": "Blackpink's latest music video.",
+      "date":  "2026-02-27",
+      "url": "https://www.youtube.com/watch?v=2GJfWMYCWY0"
+    },
+    {
+      "id": "2",
+      "artistId": "1",
+      "platform": "Instagram",
+      "artistName": "Blackpink",
+      "title": "Blackpink Instagram Post",
+      "description": "Blackpink's latest instagram post.",
+      "date":  "2026-02-26",
+      "url": "https://www.instagram.com/p/DVP7-cDE31x/"
+    },
+    {
+      "id": "3",
+      "artistId": "2",
+      "platform": "Youtube",
+      "artistName": "BTS",
+      "title": "BTS (방탄소년단) 'SWIM' Official MV",
+      "description": "BTS' latest music video.",
+      "date":  "2026-03-29",
+      "url": "https://www.youtube.com/watch?v=b4iVv91Z6lY"
+    },
+    {
+      "id": "4",
+      "artistId": "2",
+      "platform": "Instagram",
+      "artistName": "BTS",
+      "title": "BTS' Instagram Post",
+      "description": "BTS' latest instagram post.",
+      "date":  "2026-04-06",
+      "url": "https://www.instagram.com/p/DWypAzcB3L3/"
+    },
+    {
+      "id": "5",
+      "artistId": "3",
+      "platform": "Youtube",
+      "artistName": "Twice",
+      "title": "TWICE \"THIS IS FOR\" M/V",
+      "description": "Twice's latest music video.",
+      "date":  "2025-07-10",
+      "url": "https://www.youtube.com/watch?v=eHHQaoEW30Q"
+    },
+    {
+      "id": "6",
+      "artistId": "3",
+      "platform": "Instagram",
+      "artistName": "Twice",
+      "title": "TWICE: \"ME+YOU\" M/V",
+      "description": "Twice's latest instagram post.",
+      "date":  "2025-10-10",
+      "url": "https://www.instagram.com/p/DPnVP8GkgTL/"
+    }
+  ]
+}
